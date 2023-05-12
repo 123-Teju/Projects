@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "622e26226dd6f4a811a271d6",
+        "picture": "http://placehold.it/32x32",
+        "age": 34,
+        "name": "Lorena Page",
+        "gender": "female",
+        "email": "lorenapage@poshome.com"
+    },
+    {
+        "_id": "622e2622336a067a001d628f",
+        "picture": "http://placehold.it/32x32",
+        "age": 26,
+        "name": "Kerry Walton",
+        "gender": "female",
+        "email": "kerrywalton@poshome.com"
+    },
+    {
+        "_id": "622e2622b947fd8087d2ea48",
+        "picture": "http://placehold.it/32x32",
+        "age": 22,
+        "name": "Morrison Montoya",
+        "gender": "male",
+        "email": "morrisonmontoya@poshome.com"
+    },
+    {
+        "_id": "622e26222dc5cfdf3d9ed439",
+        "picture": "http://placehold.it/32x32",
+        "age": 29,
+        "name": "Lawanda Flores",
+        "gender": "female",
+        "email": "lawandaflores@poshome.com"
+    },
+    {
+        "_id": "622e2622918fb308ba49824c",
+        "picture": "http://placehold.it/32x32",
+        "age": 38,
+        "name": "Kitty Gibbs",
+        "gender": "female",
+        "email": "kittygibbs@poshome.com"
+    }
+]
