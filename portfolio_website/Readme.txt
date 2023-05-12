@@ -20,7 +20,3 @@ http://localhost:3000/admin-login
 After that your admin Account is 
 Email:-admin@admin.com
 Password:-1234
-You will get dash board there you can update your About &&
-Home page Image also you can add your Services or delete the existing services
-You can also change password of  login button mention in drawer....
-Thank You for Choosing Exalters for Development .Hope you will like our work and would be intrested if there is any otherr developement with us in future :).
